@@ -41,6 +41,6 @@ Metrics used:
 - Models that prioritize **edge preservation** (like SRCNN Edge) are more useful for downstream tasks.
 
 <img width="716" height="489" alt="image" src="https://github.com/user-attachments/assets/40f0f331-4654-4a01-8103-4db2094795ed" />
-
+<img width="706" height="353" alt="image" src="https://github.com/user-attachments/assets/88ddabda-e9cc-4295-8e33-a950f275b756" />
 
 
